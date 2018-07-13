@@ -1,6 +1,6 @@
 // numeral.js locale configuration
 // locale : indonesian (bahasa indonesia)
-// author : teppeis : https://github.com/matriphe
+// author : matriphe : https://github.com/matriphe
 
 (function (global, factory) {
     if (typeof define === 'function' && define.amd) {
